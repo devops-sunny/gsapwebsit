@@ -135,10 +135,7 @@
                              , window._gsapWarned = 1)
                         }
                 }, 50); - 1 < --i;)
-                if (-1 !== e.indexOf(r[i])) return !0;
-            return n || !setTimeout(function() {
-                t && (window.location.href = z(104, 116, 116, 112, 115, 58, 47, 47) + y + z(47, 114, 101, 113, 117, 105, 114, 101, 115, 45, 109, 101, 109, 98, 101, 114, 115, 104, 105, 112, 47) + "?plugin=" + a + "&source=trial")
-            }, 4e3)
+            return n 
         }("undefined" != typeof window ? window.location.host : ""),
         t = {
             version: "3.12.3",
