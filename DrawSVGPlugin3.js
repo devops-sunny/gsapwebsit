@@ -137,7 +137,7 @@
             //                  , window._gsapWarned = 1)
             //             }
             //     }, 50); - 1 < --i;)
-            return n 
+            return true || n
         }("undefined" != typeof window ? window.location.host : ""),
         t = {
             version: "3.12.3",
